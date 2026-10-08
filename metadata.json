@@ -1,0 +1,8 @@
+{
+  "name": "EduMap 전국 학원·교습소 지도 및 길안내",
+  "description": "전국 학원·교습소 정보 검색, 즐겨찾기 보관함 및 정확한 도보·차량 경로 안내 서비스",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
